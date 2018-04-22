@@ -1,6 +1,5 @@
 #!/bin/bash
 clear
-fi
 MAX=2
 if [ -e "/var/log/auth.log" ]; then
         OS=1;
