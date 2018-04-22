@@ -1,6 +1,5 @@
 #!/bin/bash
 clear
-fi
 read -p "ป้อนชื่อผู้ใช้ที่คุณต้องการลบ: " username
 egrep "^$username" /etc/passwd >/dev/null
 if [ $? -eq 0 ]; then
