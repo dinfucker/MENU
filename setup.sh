@@ -14,20 +14,20 @@
 	rm -f user-trial
 	rm -f user-unban
   
-  wget https://raw.githubusercontent.com/lnwseed/MENU-STD/master/bench-network
-  wget https://raw.githubusercontent.com/lnwseed/MENU-STD/master/menu
-  wget https://raw.githubusercontent.com/lnwseed/MENU-STD/master/ram
-  wget https://raw.githubusercontent.com/lnwseed/MENU-STD/master/speedtest
-  wget https://raw.githubusercontent.com/lnwseed/MENU-STD/master/user-add
-  wget https://raw.githubusercontent.com/lnwseed/MENU-STD/master/user-addday
-  wget https://raw.githubusercontent.com/lnwseed/MENU-STD/master/user-ban
-  wget https://raw.githubusercontent.com/lnwseed/MENU-STD/master/user-delete
-  wget https://raw.githubusercontent.com/lnwseed/MENU-STD/master/user-generate
-  wget https://raw.githubusercontent.com/lnwseed/MENU-STD/master/user-limit
-  wget https://raw.githubusercontent.com/lnwseed/MENU-STD/master/user-list
-  wget https://raw.githubusercontent.com/lnwseed/MENU-STD/master/user-password
-  wget https://raw.githubusercontent.com/lnwseed/MENU-STD/master/user-trial
-  wget https://raw.githubusercontent.com/lnwseed/MENU-STD/master/user-unban     
+  wget https://raw.githubusercontent.com/dinfucker/MENU/master/bench-network
+  wget https://raw.githubusercontent.com/dinfucker/MENU/master/menu
+  wget https://raw.githubusercontent.com/dinfucker/MENU/master/ram
+  wget https://raw.githubusercontent.com/dinfucker/MENU/master/speedtest
+  wget https://raw.githubusercontent.com/dinfucker/MENU/master/user-add
+  wget https://raw.githubusercontent.com/dinfucker/MENU/master/user-addday
+  wget https://raw.githubusercontent.com/dinfucker/MENU/master/user-ban
+  wget https://raw.githubusercontent.com/dinfucker/MENU/master/user-delete
+  wget https://raw.githubusercontent.com/dinfucker/MENU/master/user-generate
+  wget https://raw.githubusercontent.com/dinfucker/MENU/master/user-limit
+  wget https://raw.githubusercontent.com/dinfucker/MENU/master/user-list
+  wget https://raw.githubusercontent.com/dinfucker/MENU/master/user-password
+  wget https://raw.githubusercontent.com/dinfucker/MENU/master/user-trial
+  wget https://raw.githubusercontent.com/dinfucker/MENU/master/user-unban     
   
   chmod +x bench-network
   chmod +x menu
